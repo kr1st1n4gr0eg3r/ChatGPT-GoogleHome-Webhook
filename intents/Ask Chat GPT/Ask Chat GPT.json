@@ -1,0 +1,7 @@
+{
+  "name": "aec3bf23-77fa-4afe-b1ff-3c2f7bdc2d78",
+  "displayName": "Ask Chat GPT",
+  "priority": 500000,
+  "description": "Ask ChatGPT questions from Google Assistant",
+  "numTrainingPhrases": 5
+}

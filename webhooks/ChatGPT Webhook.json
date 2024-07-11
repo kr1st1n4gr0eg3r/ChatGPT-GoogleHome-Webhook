@@ -1,0 +1,10 @@
+{
+  "name": "63eb018c-90a8-4682-8fd7-52dc5bde6bf8",
+  "displayName": "ChatGPT Webhook",
+  "genericWebService": {
+    "uri": "https://us-central1-lunar-linker-429115-c8.cloudfunctions.net/function-1"
+  },
+  "timeout": {
+    "seconds": 5
+  }
+}
